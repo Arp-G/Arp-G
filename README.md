@@ -1,11 +1,18 @@
 <h1 align="center">Hi 👋, I'm Arpan</h1>
 <h3 align="center">A passionate webdeveloper developer from India</h3>
 
-- 💬 Ask me about **elixir, rust and javascript**
+<p align="center">
+ 💬 Ask me about **elixir, rust and javascript**
+</p>
 
-- 📫 How to reach me **arpanghoshal3@gmail.com**
 
-- ⚡ Fun fact **When someone wishes happy birthday to me, I sometimes reply "same to you" 😂**
+<p align="center">
+ 📫 How to reach me **arpanghoshal3@gmail.com**
+</p>
+
+<p align="center">
+ ⚡ Fun fact **When someone wishes happy birthday to me, I sometimes reply "same to you" 😂**
+</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
