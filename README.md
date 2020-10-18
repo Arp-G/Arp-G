@@ -2,16 +2,16 @@
 <h3 align="center">A passionate webdeveloper developer from India</h3>
 
 <p align="center">
- 💬 Ask me about **elixir, rust and javascript**
+ 💬 Ask me about <b>elixir, rust and javascript</b>
 </p>
 
 
 <p align="center">
- 📫 How to reach me **arpanghoshal3@gmail.com**
+ 📫 How to reach me <b>arpanghoshal3@gmail.com</b>
 </p>
 
 <p align="center">
- ⚡ Fun fact **When someone wishes happy birthday to me, I sometimes reply "same to you" 😂**
+ ⚡ Fun fact <b>When someone wishes happy birthday to me, I sometimes reply "same to you" 😂</b>
 </p>
 
 <h3 align="center">Connect with me:</h3>
