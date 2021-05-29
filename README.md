@@ -2,7 +2,7 @@
 <h3 align="center">A passionate webdeveloper developer from India</h3>
 
 <p align="center">
- 💬 Ask me about <b>elixir, rust and javascript</b>
+ 👨‍💻 I mainly do <b>elixir, ruby and javascript</b> but I also love <b>rust and java</b>
 </p>
 
 <p align="center">
