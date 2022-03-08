@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arpan</h1>
-<h3 align="center">A passionate webdeveloper developer from India</h3>
+<h3 align="center">A passionate developer from India</h3>
 
 <p align="center">
  👨‍💻 I mainly do <b>elixir, ruby and javascript</b> but I also love <b>rust and java</b>
